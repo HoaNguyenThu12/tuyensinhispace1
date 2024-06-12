@@ -2,7 +2,7 @@
   "name": "use-reducer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HoaNguyenThu12.github.io/tuyensinhispace",
+  "homepage": "https://HoaNguyenThu12.github.io/tuyensinhispace1",
   "dependencies": {
     "@tanstack/react-query": "^5.44.0",
     "@tanstack/react-query-devtools": "^5.44.0",
