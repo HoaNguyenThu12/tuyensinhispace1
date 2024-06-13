@@ -160,7 +160,6 @@ const SheetsForm = () => {
 
   return (
     <div>
-     
       <div>
       
         <div className="container-fluid bg-registration py-5" style={{ margin: "90px 0", backgroundColor: "#B8A793" }}>

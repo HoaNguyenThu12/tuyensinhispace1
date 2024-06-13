@@ -27,19 +27,19 @@ function Content() {
                             <div className="row align-items-start">
                                 <div className="col-md-4 col-sm-6 col-xs-12">
                                     <div className="mon">
-                                        <p className="tenmon"><Link to="/AnNinhMang">AN NINH MẠNG</Link></p>
+                                        <p className="tenmon"><Link to="/an-ninh-mang">AN NINH MẠNG</Link></p>
                                         <img className="hinh" src="./img/ANM.png" alt="AN NINH MẠNG" />
                                     </div>
                                 </div>
                                 <div className="col-md-4 col-sm-6 col-xs-12">
                                     <div className="mon">
-                                        <p className="tenmon"><Link to="/PhatTrienPhanMem">PHÁT TRIỂN PHẦN MỀM</Link></p>
+                                        <p className="tenmon"><Link to="/phat-trien-phan-mem">PHÁT TRIỂN PHẦN MỀM</Link></p>
                                         <img className="hinh" src="./img/PTPM.png" alt="PHÁT TRIỂN PHẦN MỀM" />
                                     </div>
                                 </div>
                                 <div className="col-md-4 col-sm-6 col-xs-12">
                                     <div className="mon">
-                                        <p className="tenmon"><Link to="/ThietKeDoHoa">THIẾT KẾ ĐỒ HỌA</Link></p>
+                                        <p className="tenmon"><Link to="/thiet-ke-do-hoa">THIẾT KẾ ĐỒ HỌA</Link></p>
                                         <img className="hinh" src="./img/TKDH.png" alt="THIẾT KẾ ĐỒ HỌA" />
                                     </div>
                                 </div>
